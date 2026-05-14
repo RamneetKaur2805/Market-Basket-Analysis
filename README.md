@@ -357,15 +357,11 @@ Based on the interpreted association rules, here are practical recommendations t
 
 ### 1) Dishwash Liquid & Fabric Softener: 
 
-Given the strong association (Rule 1 & 2), these household cleaning items can be bundled together, perhaps with a slight discount, to encourage purchase of 
-
-both.
+Given the strong association (Rule 1 & 2), these household cleaning items can be bundled together, perhaps with a slight discount, to encourage purchase of both.
 
 ### 2) Nachos & Salsa Dip: 
 
-This is a classic pairing (Rule 3) and an ideal candidate for 'buy one get one half off' or a combined snack bundle. Special display units for these together 
-
-could also be effective.
+This is a classic pairing (Rule 3) and an ideal candidate for 'buy one get one half off' or a combined snack bundle. Special display units for these together could also be effective.
 
 ### 3) Potato Chips & Salsa Dip: 
 
@@ -373,9 +369,7 @@ Similar to nachos, these (Rule 4) can be bundled as a snack combo. Consider diff
 
 ### 4) Bread Loaf, Butter & Chocolate Spread: 
 
-The rules involving these three items (Rules 5, 6, 7, 8, 9, 10) indicate a strong breakfast/snack bundle. Offering a 'breakfast starter kit' with all three could 
-
-be very appealing.
+The rules involving these three items (Rules 5, 6, 7, 8, 9, 10) indicate a strong breakfast/snack bundle. Offering a 'breakfast starter kit' with all three could be very appealing.
 
 ## Product Placement:
 
@@ -389,17 +383,13 @@ These snack items should always be displayed together. Consider end-cap displays
 
 ### 3) Butter, Bread Loaf & Chocolate Spread: 
 
-These items should be merchandised near each other. If bread is in a separate section, consider placing a smaller display of bread near the butter and 
-
-spreads.
+These items should be merchandised near each other. If bread is in a separate section, consider placing a smaller display of bread near the butter and spreads.
 
 ## Cross-Selling Strategies:
 
 ### 1) Granola Bar & Oats Pack: 
 
-(Not explicitly in the top 10 rules interpreted, but observed in previous frequent itemset analysis). Promote granola bars to customers purchasing oats, and vice-
-
-versa, as these are related healthy breakfast/snack items.
+(Not explicitly in the top 10 rules interpreted, but observed in previous frequent itemset analysis). Promote granola bars to customers purchasing oats, and vice-versa, as these are related healthy breakfast/snack items.
 
 ### 2) Coffee Beans & French Press: 
 
@@ -407,9 +397,7 @@ If a customer buys coffee beans, suggest a French press (or vice-versa). This ca
 
 ### 3) Instant Coffee & French Press: 
 
-While less intuitive, the association (if present in the full rules) could indicate customers exploring different coffee brewing methods. A recommendation for one 
-
-when the other is purchased could introduce them to new options.
+While less intuitive, the association (if present in the full rules) could indicate customers exploring different coffee brewing methods. A recommendation for one when the other is purchased could introduce them to new options.
 
 ## Promotional Campaigns:
 
@@ -431,9 +419,7 @@ Offer seasonal discounts on these essential cleaning products.
  
  It's important to recognize that rules like A -> B and B -> A (e.g., Dishwash Liquid -> Fabric Softener and Fabric Softener -> Dishwash Liquid) provide similar 
  
- insights. While both are valid, the interpretation focuses on the primary direction that might be more actionable for marketing (e.g., if one item is a 
- 
- 'destination' purchase).
+ insights. While both are valid, the interpretation focuses on the primary direction that might be more actionable for marketing (e.g., if one item is a 'destination' purchase).
 
 ### 2) Obvious or Trivial Rules: 
 
@@ -461,9 +447,7 @@ Understanding co-purchase patterns can help in stocking decisions, ensuring that
 
 ### 5) Targeted Marketing: 
 
-The insights enable more effective marketing campaigns, focusing on product relationships rather than individual items, which can resonate more with customer 
-
-buying habits
+The insights enable more effective marketing campaigns, focusing on product relationships rather than individual items, which can resonate more with customer buying habits
 
 ---
 
