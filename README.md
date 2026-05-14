@@ -417,15 +417,11 @@ Offer seasonal discounts on these essential cleaning products.
 
 ### 1) Inverse Rules:
  
- It's important to recognize that rules like A -> B and B -> A (e.g., Dishwash Liquid -> Fabric Softener and Fabric Softener -> Dishwash Liquid) provide similar 
- 
- insights. While both are valid, the interpretation focuses on the primary direction that might be more actionable for marketing (e.g., if one item is a 'destination' purchase).
+ It's important to recognize that rules like A -> B and B -> A (e.g., Dishwash Liquid -> Fabric Softener and Fabric Softener -> Dishwash Liquid) provide similar insights. While both are valid, the interpretation focuses on the primary direction that might be more actionable for marketing (e.g., if one item is a 'destination' purchase).
 
 ### 2) Obvious or Trivial Rules: 
 
-Rules that are extremely common knowledge (e.g., Bread -> Butter if the confidence is very high) might not offer new strategic insights but confirm existing 
-
-assumptions. However, they can still be valuable for consistent merchandising.
+Rules that are extremely common knowledge (e.g., Bread -> Butter if the confidence is very high) might not offer new strategic insights but confirm existing assumptions. However, they can still be valuable for consistent merchandising.
 
 ## Improving Sales or Customer Experience:
 
