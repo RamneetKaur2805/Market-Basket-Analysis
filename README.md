@@ -476,7 +476,12 @@ Market-Basket-Analysis/
 
 ## Step 1: Clone Repository
 
+```bash
+https://github.com/RamneetKaur2805/Market-Basket-Analysis
+```
+
 ---
+
 
 ## Step 2: Install Required Libraries
 
