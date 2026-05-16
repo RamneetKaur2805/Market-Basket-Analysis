@@ -466,17 +466,15 @@ Market-Basket-Analysis/
 ├── requirements.txt
 ├── dataset_source.md
 ├── outputs/
-└── images/```
+└── images/
+```
 
 ---
+
 
 # How to Run the Project
 
 ## Step 1: Clone Repository
-
-```bash
-git clone <repository-link>
-```
 
 ---
 
